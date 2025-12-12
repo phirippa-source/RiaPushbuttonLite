@@ -168,6 +168,8 @@ Arduino IDE에서:
 
    This library is released under the MIT License.  
    See the LICENSE file in this repository for full text.
+   이 라이브러리는 MIT 라이선스로 배포됩니다.  
+   자세한 내용은 저장소의 LICENSE 파일을 참고하세요.
 
 ---
 
