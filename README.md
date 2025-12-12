@@ -68,3 +68,18 @@ void loop() {
 
   delay(10);
 }
+
+## API Reference
+```cpp
+RiaPushbuttonLite(uint8_t pin,
+                  uint8_t mode = INPUT_PULLUP,
+                  uint8_t pressedLevel = LOW,
+                  unsigned long debounceMs = 30);
+```
+* `pin` : 버튼이 연결된 디지털 핀 번호
+* `mode` : pinMode()에 들어가는 모드 (예: INPUT, INPUT_PULLUP)
+* `pressedLevel` : “버튼이 눌렸을 때의 핀 레벨”
+  * 풀업 스위치(눌리면 GND) → LOW
+  * 풀다운 스위치(눌리면 VCC) → HIGH
+* `debounceMs` : 디바운스에 사용할 시간(ms)
+  * 보통 10 ~ 30ms 사이를 권장
