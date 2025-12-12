@@ -162,13 +162,6 @@ Arduino IDE에서:
 
 - **File → Examples → RiaPushbuttonLite → RiaPushbuttonLite_QuickStart**
 
-추가 예제를 만든다면 예를 들어:
-
-- `RiaPushbuttonLite_SerialPrint` – 눌릴 때마다 한 줄 출력  
-- `RiaPushbuttonLite_ToggleLED` – 버튼을 “한 번 클릭하면 ON, 한 번 더 클릭하면 OFF”
-
-같은 식으로 확장할 수 있습니다.
-
 ---
 
 ## License
