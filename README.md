@@ -176,4 +176,4 @@ Arduino IDE에서:
 ## Version History
 
 - **v0.1.1** – 초기 공개 버전, Arduino Library Manager 등록용  
-- (필요에 따라 이후 변경 사항 추가)
+
