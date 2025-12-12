@@ -166,13 +166,8 @@ Arduino IDE에서:
 
 ## License
 
-(원하는 라이선스를 명시하세요. 예: MIT, Apache-2.0 등)
-
-예:
-
-    MIT License
-    Copyright (c) 2025 Seongpil Kim
-    ...
+   This library is released under the MIT License.  
+   See the LICENSE file in this repository for full text.
 
 ---
 
